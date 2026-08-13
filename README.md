@@ -1,8 +1,8 @@
 # Non-Equilibrium Statistical Mechanics — MSc Coursework (2025)
 
 Jupyter notebooks written for the *Non-Equilibrium Statistical Mechanics* course
-of the MSc in Physics, University of Amsterdam, academic year 2024/2025
-(Alessio Martini, student no. 15621707).
+(3 EC) taught by **Edan Lerner**, MSc in Physics, University of Amsterdam,
+academic year 2024/2025 — Alessio Martini, student no. 15621707.
 
 Everything here is **numerical**: Langevin dynamics, random walks and sums of
 random variables are simulated from scratch with `numpy`, and the results are
