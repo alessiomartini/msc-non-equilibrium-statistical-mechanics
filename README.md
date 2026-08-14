@@ -52,5 +52,5 @@ notebooks are the ones the reports were written against.
 
 ## Related repository
 
-- [`hydrodynamics_2025_msc_course`](https://github.com/alessiomartini/hydrodynamics_2025_msc_course)
+- [`msc-hydrodynamics-homework`](https://github.com/alessiomartini/msc-hydrodynamics-homework)
   — homework notebooks from the Hydrodynamics course of the same MSc year.
